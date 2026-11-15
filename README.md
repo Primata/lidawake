@@ -8,18 +8,9 @@ Stop larping as a laptop-shaped clamshell. Say no more. Use this.
 
 LidAwake is a tiny menu bar app that keeps your Mac running with the lid **fully closed**: no external monitor, no charger, no dongle sacrifices. Click the cup, close the lid, go touch grass. Your agent will still be shipping dashboard #11 when you get back.
 
-```
- ☕ 1h 20m                     ← lives in your menu bar
-┌──────────────────────────────────────────┐
-│ Awake with lid closed · off in 1:19:42   │
-├──────────────────────────────────────────┤
-│ Turn Off                             ⌘T  │
-│ Turn Off After…                       ▸  │  15m · 30m · 1h · 2h · 4h · 8h
-├──────────────────────────────────────────┤
-│ ✓ Launch at Login                        │
-│ Quit (turns off)                     ⌘Q  │
-└──────────────────────────────────────────┘
-```
+<p align="center"><img src="docs/menu.png" width="520" alt="LidAwake menu: awake with lid closed, off in 58:56, countdown in the menu bar"></p>
+
+<p align="center"><sub>Steaming cup + countdown = your Mac is pulling an all-nighter on purpose.</sub></p>
 
 ## Features
 
