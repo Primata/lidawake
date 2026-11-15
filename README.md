@@ -1,4 +1,4 @@
-# ☕ LidAwake
+# 🔓 LidAwake
 
 **Close the lid. Your agent keeps cooking.**
 
@@ -6,15 +6,15 @@ You know the walk. Laptop held open at a 20° angle like a waiter carrying soup.
 
 Stop larping as a laptop-shaped clamshell. Say no more. Use this.
 
-LidAwake is a tiny menu bar app that keeps your Mac running with the lid **fully closed**: no external monitor, no charger, no dongle sacrifices. Click the cup, close the lid, go touch grass. Your agent will still be shipping dashboard #11 when you get back.
+LidAwake is a tiny menu bar app that keeps your Mac running with the lid **fully closed**: no external monitor, no charger, no dongle sacrifices. Click the laptop, close the lid, go touch grass. Your agent will still be shipping dashboard #11 when you get back.
 
 <p align="center"><img src="docs/menu.png" width="520" alt="LidAwake menu: awake with lid closed, off in 58:56, countdown in the menu bar"></p>
 
-<p align="center"><sub>Steaming cup + countdown = your Mac is pulling an all-nighter on purpose.</sub></p>
+<p align="center"><sub>Unlocked laptop + countdown = your Mac is pulling an all-nighter on purpose.</sub></p>
 
 ## Features
 
-- **One-click toggle.** Empty cup = normal Mac. Steaming cup = insomniac Mac.
+- **One-click toggle.** 🔒 Locked laptop = normal Mac, sleeps when you close it. 🔓 Unlocked laptop = lid-proof insomniac Mac.
 - **Optional timer.** "Stay on for 2 hours" then it puts itself to bed. The countdown sits right in the menu bar.
 - **Low-battery safety net.** Unplugged and down to 10%? It turns itself off so your Mac can sleep instead of dying in your backpack.
 - **Quitting turns it off.** You can't accidentally leave your Mac on for three weeks by force-quitting.

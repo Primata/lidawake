@@ -193,7 +193,7 @@ struct LidAwakeApp: App {
             .keyboardShortcut("q")
         } label: {
             HStack(spacing: 3) {
-                Image(systemName: awake.isOn ? "cup.and.heat.waves.fill" : "cup.and.saucer")
+                Image(systemName: awake.isOn ? "lock.open.laptopcomputer" : "lock.laptopcomputer")
                 if let r = awake.shortRemaining { Text(r) }
             }
         }
